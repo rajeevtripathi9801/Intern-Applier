@@ -2,7 +2,6 @@
 
 A script to automatically search Glassdoor for job listings, aggregate every application URL, and apply to each job using pre-populated data. ***All with one click!***
 
-
 ![Architecture.png](https://github.com/tripathiraj981/Intern-Applier/blob/main/Architecture.png)
 
 *Figure 1: High-level architecture of the Secure Communication Project*
