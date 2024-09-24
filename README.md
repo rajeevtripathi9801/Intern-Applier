@@ -2,6 +2,11 @@
 
 A script to automatically search Glassdoor for job listings, aggregate every application URL, and apply to each job using pre-populated data. ***All with one click!***
 
+
+![Architecture.png](https://github.com/tripathiraj981/Intern-Applier/blob/main/Architecture.png)
+
+*Figure 1: High-level architecture of the Secure Communication Project*
+
 ## Inspiration
 
 Ever sit at your desk for hours, clicking through endless job listings hoping to strike gold with one response? To solve this, I made a script a few months ago, which would take in a list of job URLs and automatically apply to potentially 100s of jobs with the click of a button. This was great, but there was one problem — the process of aggregating those links is painstaking. So, I wanted to automate that process with this project! ✨
