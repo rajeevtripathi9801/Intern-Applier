@@ -18,7 +18,7 @@ Ever sit at your desk for hours, clicking through endless job listings hoping to
    * Check location of ChromeDriver: `which chromedriver`
    * Wherever the `driver` is initialized in the code, insert the ChromeDriver location
 2. Install Selenium: `pip install selenium`
-3. Install BeautifulSoup: `pip install beautifulsoup4`
+3. Install BeautifulSoup: `pip install beautifulsoup`
 
 ## Usage
 
